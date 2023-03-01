@@ -1,7 +1,7 @@
 ## Olá! eu sou o Caio Felipe, desenvolvedor e programador.
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typesrcipt
+- 🔭 Entusiasta de hacking
+- 🌱 Estudando Sistemas de Informação
 - 😄 Pronouns: ele/dele
 
 <div align="center">
